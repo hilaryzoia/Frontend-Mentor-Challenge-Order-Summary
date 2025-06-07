@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('./images/pattern-background-desktop.svg') no-repeat center center fixed;
+    background: url('../images/pattern-background-desktop.svg') no-repeat center center fixed;
     min-height: 10vh;
     background-color: hsl(225, 100%, 94%);
     box-sizing: border-box;
